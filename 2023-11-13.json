@@ -1,0 +1,26 @@
+{
+  "name": "Angel McCoy",
+  "age": 51,
+  "address": {
+    "street": "Baowo Point",
+    "city": "Zetenus",
+    "state": "CO",
+    "zip": "88409"
+  },
+  "contact": {
+    "phone": "(632) 837-2950",
+    "servicePhone": "800853332"
+  },
+  "birthday": "2003-10-05T00:23:42.797Z",
+  "ip": "122.179.42.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Vici cin wit luuj lihuguj fov nu gep zaselite pa gip nini abwiv bavtut kinacomi. Ceb gop cu odukanjo pacduhgin un hef mum tevhosi belob ecbeljoj gomza. Wi kojeti muzja sof hecora cikef vujgok orremwu esbupor nu loicu wirulet loluh susittu pivlihid guguhe cij wup.",
+    "bio": "Vufo owukog ro lu rocte su vosuk de mepas hiliv nejredto amjav kita dofhurjoj goglub figcaf. Aco dim pawsi wopoj gawe aguenu zid cuku mog minfavpe nigre segbed cuhemif site. Maglop acva did zejhiheg kijticic ludu ampuacu atedah ge imawuj niwauko di gepeh nemoc vunwu wuc ci toda."
+  },
+  "apiKey": "b295f23bce38356b77ac6e9586979f44ef35b29d286df3868d005553a2a1b514",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
