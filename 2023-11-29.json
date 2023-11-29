@@ -1,0 +1,26 @@
+{
+  "name": "Alex Zimmerman",
+  "age": 30,
+  "address": {
+    "street": "Zozo Trail",
+    "city": "Bihkezuk",
+    "state": "AL",
+    "zip": "41235"
+  },
+  "contact": {
+    "phone": "(930) 898-1200",
+    "servicePhone": "800234683"
+  },
+  "birthday": "1999-12-08T23:43:13.258Z",
+  "ip": "65.114.32.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Mopoduv rowovoj nafige laeg rel tul worzisiti nelbep talgipu okvujok hezlo gadito aplohupo pef evoultir. Roca sojobe otihabe orpam et ze fopug cukdi oge robzih giz obiug sa. Ehajev gizutvac fietu taggi mojmaeg vicote metret je erem ozonop bo zikolel tuwkoru vuvhoiv. Muwsaw li reube hufucbow lumug cawnabufe miiw sawaf zu zamdol ifme gigko tok fojac.",
+    "bio": "Deb rimvidket ginut ov tonvov uf hud pu nogo ke ozulabniw jiocwiz. Hafamow gat dow tifewat han asesoih kotdirho emu nib be zu hetof. Uf sujevguh piofel vunkuzvuc inujaon zapi uj pebwavha seckop cafki wat va vaplej ulezaga fetul."
+  },
+  "apiKey": "a51c53d9e89f28b9b34bc93f829279cf213ebd2c4466239783b8e8412d416432",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
