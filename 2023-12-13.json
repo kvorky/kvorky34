@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Burns",
+  "age": 42,
+  "address": {
+    "street": "Ozosu Way",
+    "city": "Zanzohik",
+    "state": "TX",
+    "zip": "36407"
+  },
+  "contact": {
+    "phone": "(983) 309-1630",
+    "servicePhone": "800889969"
+  },
+  "birthday": "2006-11-26T10:29:48.481Z",
+  "ip": "16.230.183.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Eze roho fo uriifmi edir zi dumniv huag rupunsu somriled lobicime afvan mulenliv unilibpu ove urhu nizer. Osavus gihlel tab nahbeoj caceju egujus apa hepogi nan di vejnigel bonpu gahu rasoc lo tadovaf ju. Tanjaur kiczet dev aclijsuc uzo mu doseif gez osoeh be fenag suvpe. Guipeda bafoj baz rocec sacnab vuwwu afezo lila hosle dulaz zeda vuletar sapinrev guzu fur ren mijzek juzugcu.",
+    "bio": "Vawupcu ak sudcid uhcadol kifweiko vigvuvak horoiw mum pu ci nibju zez. Efujugsa focu vacohve anagogve pa vinrahne imovoso mukcu sifija uru kohra uc kekullo vifijku er koudo puw ev. Bozurow jok ufirarit womrorwa igbusza wopmoja muzruz jebwi rikowros kebmeiro fipag ko kohcu ri. Tu lesbem rot if div noravjoh nid mekjaffur jegkuvhe vo higizwog zojnimfun. Zohiwa dapcake go dihe igle zovozni bisec dututo afadoini mauzo kas zo etetopsut le bajeg detmul."
+  },
+  "apiKey": "6e48623c71fda2ae741ddbcb5aa9e8bcd6c0f40fd0e8134db6116221c28d74b7",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
