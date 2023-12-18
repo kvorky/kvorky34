@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Rodriguez",
+  "age": 33,
+  "address": {
+    "street": "Ivho Manor",
+    "city": "Diwzoeba",
+    "state": "OK",
+    "zip": "32401"
+  },
+  "contact": {
+    "phone": "(811) 674-1670",
+    "servicePhone": "800752364"
+  },
+  "birthday": "1997-02-03T02:51:43.061Z",
+  "ip": "15.116.47.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Sijal vocgi vivegu wo lon soholvam fatwizo hutaz ek conla pu taot. Weztokji awozaz cikon uvdi rom ici bakiz tilkadek gut rit zifa degco pu vi hac wo sulijuf. Gatdiv uda wo ema nimohuc pop daba hurdur ci wavaha zav wu povesbus ewe kekvuza takbe iku lififi.",
+    "bio": "Udzi pubjab uku diz gupeg bobkivla wag cezhek eve berapori aka popoiri bipwumiw lanup bu jebefcu nojtun pami. Cudluzo wobwu bugru be ti noh sab ahvuc rot awcaig ju fabegic sake veh is cubgesjif pennipemi wo. Odfilud nubano be juhra makbibusu tikujub fakevelo lora di biuwolol he lew mamrenaz ojapape."
+  },
+  "apiKey": "f65766b0eb64e009f1e873d11611402886a0e9de1be70729d55c7e77528aae20",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
