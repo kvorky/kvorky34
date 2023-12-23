@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Morgan",
+  "age": 19,
+  "address": {
+    "street": "Leese Junction",
+    "city": "Ickope",
+    "state": "CA",
+    "zip": "31970"
+  },
+  "contact": {
+    "phone": "(456) 322-4923",
+    "servicePhone": "800722211"
+  },
+  "birthday": "1962-06-04T19:02:31.812Z",
+  "ip": "249.20.1.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Juba un giscujug uc ihsuz mo fepow ejgu poaj iprafem ofiikiag juhi kebo mo tabvakum tecal ehkum no. Vom vijlebap otdetujo mioj oca cuvopwi tieddij ter cu pu udfocla bikhel otocigci acki jelruhva. Okues hilmo johodsuz zepe felo huswib def hatumu veluni kodekpaz fathi daku ke cebegeco.",
+    "bio": "Mu lantor kezbif ab gaupi pu irgofuz ifus ceceiga zu cemsip gu igofowak jugum eraziget ic. Af re ub polhizip pin adibonud fiwi fugecge deli afo mukih cewbureko negawte eta hivavhem iku. Pevon ipjic fef pohjiri kan so ekeataba ce cufen unro bavgopwuw rip sujcuz alcul zi."
+  },
+  "apiKey": "8c34367ef79cfae2b8f6e90975f4626611ea2200c6d6cd49e1569c73edffb153",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
