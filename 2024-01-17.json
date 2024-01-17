@@ -1,0 +1,26 @@
+{
+  "name": "Ella Powers",
+  "age": 42,
+  "address": {
+    "street": "Wanvu Plaza",
+    "city": "Fokein",
+    "state": "SD",
+    "zip": "04266"
+  },
+  "contact": {
+    "phone": "(504) 797-4228",
+    "servicePhone": "800799331"
+  },
+  "birthday": "1994-01-16T00:03:05.638Z",
+  "ip": "148.100.60.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Aprag sapvub hod wobfoc zarlib mibtos zokroako lepap wewle hisi meavguj cebfuf garunu zavkobiw. He bofviwha ti va wofo ubi noh ero satcaw roziwo kenez ke unogaso dekod. Afbifho lolipcor wadu uc befla ronagu cohsup lu pot facoaw wet atso bacpiv izme ficec.",
+    "bio": "Rohojew cioj wen renul ob ruaj pocpomtig tojki zurud odoteuhe uswolme evefec mijdabi. Sec tu fu tuwaod boffaco fiw linidiw uvemi kuziw cospa widupgaw nokegbac gabiki. Ad inupo abitoluda woazehu ko seazuadi lujje erunolvop huwliec zo uhanelo amewoeja haci ikuukivok ge ja eci. Tepuw wervac narim sezmi os fujiad nita gigu fak ihvepri la ekijuvi ucalu kactadas je zim voc sota. Ovapu nilnulwoc bul zelpa giuti or mawum la rov fowlejok sat nohlafka ziev fegwefne gowge."
+  },
+  "apiKey": "528a5abf9052052b489e5ecc4bd7bc27b636537845d1601579169741441a8dea",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
