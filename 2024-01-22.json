@@ -1,0 +1,26 @@
+{
+  "name": "Esther Roy",
+  "age": 51,
+  "address": {
+    "street": "Celda Road",
+    "city": "Behudfe",
+    "state": "CA",
+    "zip": "53612"
+  },
+  "contact": {
+    "phone": "(245) 861-5767",
+    "servicePhone": "800389225"
+  },
+  "birthday": "1994-07-26T08:13:41.715Z",
+  "ip": "103.3.131.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Har agraf gievihev urtorgoh vih ge pep biwrije hadofraf jallus ropalaf kemoz. Arojom gena lupikon kuzluh arpesebe toh wi hor juavusic satkim dabafiv jujkogoc tono ubiugi ep zuwpa. Migoh oso tewpipih kov lirah op gew gaf wi jot op boup nufhumgu. Fef eduelnas leve le jeemu emab sukifwow jof onze cejvivvi vectugir bo magop. Gibdoh nu zag nifoj ti naine roiri umome nueso tuzuskuk su vamovlev gap guzomek tivzos hococzu.",
+    "bio": "Wosushij fajag led wah se ujanimo hihuhzut hev agvifut eh raafu nuun huovenug paf musbaf ridtiliz di vabo. Gatoen nalcap sata obni pado nagven ipadu hif iga cevfe jusauso jeketum. Ku bi ijpenusa tuaca adtofe ubefovuh orraz fukfivop sole heti jowusukaj jel jur cogdauw ulobajuro bac zi meh. Ik vavov ejborgo rurmivfi dom ju li bi pubkaz sogo sejuc hafokitac witsuzi riuce naf cemamwep. Al gagtuvufu ci rekkijuz len kid gawar rulici dipeb gu wut ime awavi bu rizu nadez puzo. Lirov aka zaka datru de ka dila hunpe midvuso ef iviato lehujza."
+  },
+  "apiKey": "357e275fd181c6fa8c31960cd6656536abd7753ca0547a4b9c59b824ab37508b",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
