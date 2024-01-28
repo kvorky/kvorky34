@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Singleton",
+  "age": 35,
+  "address": {
+    "street": "Bezsef Trail",
+    "city": "Hojbaat",
+    "state": "AK",
+    "zip": "33661"
+  },
+  "contact": {
+    "phone": "(601) 262-3778",
+    "servicePhone": "800392112"
+  },
+  "birthday": "1978-02-07T11:43:36.652Z",
+  "ip": "57.14.244.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Acnuw suasa jubmo goh ec buj wiladgi awta wad aniref refimki ebohebrol pocuvza giwbilol zivoste bikrauke dow vikofe. Naka vaka mokbicof ce bifik wosuhuw kobri ob nu halacwu hazko ophacnuk jej. Ulije bomi epzi puepi vu ehir nawoddez dizac bam jivuzoim reroj nutluwug. Zakeg diko mindic hesoz fu ogeugano du zemjotna ca iwdu cibibu tagi zabuvpop afjep nas zenmijek. Daf hek vo bul zaha ukkas ramdu ol nij wuzupa ipa catwabfu.",
+    "bio": "Birugusut ubuojsuc vabe awdekib cajob doifi uk sa foggozre ozsos eriledli web ahi irfeheto efanuliga arsenoso. Buenekig depco tolu mova ole oza hazdoran su ekesuan nimokuf ugsega anijuhte uruzitu. Woscos haam lacam fug wo ben seohuve tew ziak hi vuvdigi zok fawcik waogaudo vapafib ciwom gan."
+  },
+  "apiKey": "4a1f361e43220b4208cff54d4961c8ffc8eeb544531785e0874585d2f2618d22",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
