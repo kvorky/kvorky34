@@ -1,0 +1,26 @@
+{
+  "name": "Augusta Snyder",
+  "age": 34,
+  "address": {
+    "street": "Awej Center",
+    "city": "Pucuvo",
+    "state": "UT",
+    "zip": "56185"
+  },
+  "contact": {
+    "phone": "(726) 530-3497",
+    "servicePhone": "800686214"
+  },
+  "birthday": "1991-05-04T05:56:44.238Z",
+  "ip": "122.153.207.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuhus bo usades ro cu hub fevuzju bukej piwpaw demnuj liwih dabkom hunbu ra ji fuwri ve wilej. Obowiseru ecvozec boguseko la je fiza mip zalwijrej obdidpuv imfi lanfeh roucacu dogila kedde. Oj wom jihga diba etujogwit wureta ga mid lawvooju hot gesgewac ovfav lal dewugi giul esefofi.",
+    "bio": "Vaj zafizuf mopcok vilvuv olaijepi kon rid on kidwic pafacaw bebozo retpev ib lisuiv. Wu cedlijdej dijig dabitujab bivek puciz za jopze puzpa iwewe tabtacpa mo bicer usucif hu vi. Zov vaco ceziej ino ti ve kokeveb oceitri fi kacho agafon ticbufvo."
+  },
+  "apiKey": "141ad2c3e6797c2063540850a6460d68d4230c4c64daa4558938f6cf278cc192",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
