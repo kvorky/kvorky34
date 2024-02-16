@@ -1,0 +1,26 @@
+{
+  "name": "Jon Soto",
+  "age": 31,
+  "address": {
+    "street": "Nofzip Park",
+    "city": "Cunatdep",
+    "state": "KS",
+    "zip": "51002"
+  },
+  "contact": {
+    "phone": "(255) 647-3918",
+    "servicePhone": "800885476"
+  },
+  "birthday": "1990-03-08T22:35:54.045Z",
+  "ip": "216.96.71.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Berbi jut etaejtef borduppa acnortuh gas nowfizu fapi ju doso mela tuwuegi zohehid na. Vago raz wo ijefor winojzi gumkeh hudaek luige rice ziav dicedeeni ho jus azikok. Bakbi utoehav dug vug to picro opu seza zadense zahba uha ca vug. Fod acuvo fa faluduk biz duwembos unzaco uliweov vugoc bilpi comiz uwbikdi peiz pemi.",
+    "bio": "Rocaromu lidlug vipajsus dotkonul fihpicib josbu gizzusuwi gabulbaj usa koumbi guzpazriw komiv tovip jescun juaba ok bor. Kavo pi momifmu aniw aki japcussar ug lan wawahud eg nac dijcuklo lumahuf eto. Umral pizena ha lun rorotoj otiomjiv mukerezo jencazimo epjej guvbi sit guk ho fo mi dicipe bofbawez. Gironacan cun dot bov pef uwfa fetpu edalufa co musak ikfaju ummupsi bekjaglis zi le obo jepu. Isifar wegfavaz acaho kuho gocehor odlutap tisilpe luclag pog ubasoh mowfet zecipif sub."
+  },
+  "apiKey": "efa1e122d40fd40769b0f41785f48eec84a4bb551f533c3dfae44433bf1bbd10",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
