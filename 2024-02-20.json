@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Cain",
+  "age": 37,
+  "address": {
+    "street": "Ikfo Way",
+    "city": "Kacoab",
+    "state": "GA",
+    "zip": "41428"
+  },
+  "contact": {
+    "phone": "(276) 205-6678",
+    "servicePhone": "800495148"
+  },
+  "birthday": "1959-04-19T18:32:51.419Z",
+  "ip": "21.176.190.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Zemsub ro ru gi okinil jadedipo ridiseog siucacu hecohce fana vun lufuda oju cac pab wikazok bivjevwep. Ubi ohidiav kubced gusivki wa conommem aroma cenej pepbikec kat paul jodkuwut wumhu defamoc. Vofgag rostunpo sigwob fehad ciazerur kes pifjogzel vuizutes nifi opef gec utgebo.",
+    "bio": "Beg ratafeha simponsu putfojmis dic josfim isaze katvis vetmube oj zo fu pucuzisut to gos. Mutagvec ulgubtov bagnap guw onein zamwe pu inufonme olindo pedonsok on pu tib facmuw fol ri. Puhaak dobo uf sohe karfif cacip ma ub doah gezawa dovege umajo de juvgemiw nugucipod dok cejarisew."
+  },
+  "apiKey": "852c1541fb41a611467449c862b87e906ad6814dd38a73949d4a808f133478d1",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
