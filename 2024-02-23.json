@@ -1,0 +1,26 @@
+{
+  "name": "Brian McDaniel",
+  "age": 37,
+  "address": {
+    "street": "Voedi Plaza",
+    "city": "Kuludha",
+    "state": "ME",
+    "zip": "63664"
+  },
+  "contact": {
+    "phone": "(914) 459-1745",
+    "servicePhone": "800934573"
+  },
+  "birthday": "1998-10-10T00:51:31.070Z",
+  "ip": "231.150.7.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Zawihi loozle ojges adgezaj bow kisop mukelcus nucfu umje tusmu olte fadufo. Ilanardik jifogja vum buj zeg ban asige muldi gijofi be rodewil ope. Bumzinoj sujerus teszej bo gafzoh eve cuhes ero don vur jorzis nilarom. Ab rutriot ag unnutna sudetoj wuw fochagep golcuh gizgiwaw lubam rucciw wizicasu usani. Nuvdi coba iwu uci uwjen kizi foca geakupo narah roducnu ro erakirwuz zosijcom luwwome. Ode ozi jonede nipep wilnewec li zorugzon mip nojcu uzfakew uliwabhi ud zobewede lo wecamus igliseg.",
+    "bio": "Sip ma rabacor wop ev zew de wom ra vuwo uwiugiku oba wevwik. Fetul citum liga ude wemej heptab bib jahi vafa buzpunis new mipiz sev leobkej iwo. Gik pis liapti licmov ma tajlujhi li co ug ti kabno lom jotubbu tu vepamran ohe. Tusizez sire ur berogefo miv fu opi sagcub ce zojconsub ofi olofaje si liuvu. Tuuj wufohe nu tisire ke mu bi jihom waj vekwozeva jogva cibwo ez jog."
+  },
+  "apiKey": "ccc2e714d2219549dc3b711c9d40f93994f7c7ddc3dd7150fd27e5be0d3926e5",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
