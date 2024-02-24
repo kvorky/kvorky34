@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Parker",
+  "age": 18,
+  "address": {
+    "street": "Zabmu Path",
+    "city": "Gereefe",
+    "state": "OR",
+    "zip": "49062"
+  },
+  "contact": {
+    "phone": "(466) 769-7103",
+    "servicePhone": "800515241"
+  },
+  "birthday": "1966-12-24T10:40:51.172Z",
+  "ip": "181.13.82.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Dot finnaja amki bi valgeze sinjas sake dujhe vioswo lakera ahpu fubid vetdi dikwiaka bite nek. Depen upomer uliwiad kacopse jizokape vi hev ninzad so mico ahatanvir joge dic ruse iniawi. Migam cisubij mollo fa ziegaovu lozicmoh hetkuw pav ovi anudehog uditi kiolipuf zebik upo. Nac fum avitejek deg sorow owoufoki nat ge metmuj kozari ipu jibimtoj gufo galideje baguc fiwdu.",
+    "bio": "Omu ma si ke ughoha jeg red dofvohi ta besekem afiicela ikjecu igueme misu tuwu zi zu ci. Kuid cosut les tuguba gu hesolsos etaki ibamiah ah kun hon bimleh gonu ipe pijlinij ivaga ru lidirod. Fiucauf edace tadad ho hije ace voej odavabu widgoz giso tuj nevzagkos cico dinek. Wiwentu govje oco odvobub jestima kebakoc sisicje ha uv ha cawtobuta nadiw poeh."
+  },
+  "apiKey": "d2653a385e99ff3c2dd024e03aab1f308be359a4bdeb2ed671128c4021f90310",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
