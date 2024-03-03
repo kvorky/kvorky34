@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Rodriguez",
+  "age": 37,
+  "address": {
+    "street": "Donbaj Highway",
+    "city": "Mokzibulu",
+    "state": "VA",
+    "zip": "92414"
+  },
+  "contact": {
+    "phone": "(831) 265-6842",
+    "servicePhone": "800746235"
+  },
+  "birthday": "1965-01-02T23:54:47.339Z",
+  "ip": "162.207.165.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Lazoj ejsaso wag koksugih pufetmi ca lorep emmo hotke ewo iwa de cuf lezuj ovezu benu. Wunpovciv fihube fim ibuzef tuibita ca sum va jilbamo gaazefo hus taruzec. Loweko ivoruv delhujfac buspi dafudahe ciwmac tumvubam vero sep pojipor onimaw wo kif gef zi.",
+    "bio": "Upa humzi sakvogsuh mow mevpelen fozo ta caze un ke veakever uhrefago bemco foinmu esrezam ecusi zarigpo matuhwa. Ga adnokap jid fil hawuwuh azouweg pucipeke huke fam tiz pinmemwi meves ufumibpe hecugiefo ehoej soto lamecki. Le racucsu pusro pe peun ija tagvof dajmaiki ipiba ine hu acsag racbalvo ukemezoju okgigo paf."
+  },
+  "apiKey": "e1c0e3ad0726ee3ea6c655ad36d839b13810732817de9a3bbc1cc94a5951e1ae",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
