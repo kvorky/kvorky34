@@ -1,0 +1,26 @@
+{
+  "name": "Beulah Anderson",
+  "age": 25,
+  "address": {
+    "street": "Lakco Plaza",
+    "city": "Liljiravi",
+    "state": "CT",
+    "zip": "10984"
+  },
+  "contact": {
+    "phone": "(648) 474-3766",
+    "servicePhone": "800415919"
+  },
+  "birthday": "1963-04-05T00:23:31.024Z",
+  "ip": "87.181.192.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Rajetamul ofeegime oziam azduj ew al hafre mob zu lacogopaw gupa somheb minwudsu vaheji ovalaw ji kijne eluko. Sogowtup dow depva olfa fe vam vogkoeku sasok je rafef fo nem olpoh rozejpi batre ceas woc enutigi. Rumji ziharki anaafo adu mapabce nek kazapucaf vu ki gahrun sen oliro favjuw acoho keoguama goufoco.",
+    "bio": "Vo terik sujucezo falojepe zocraf zani nevuwi jejokfar voj fuk paew wiwsefru lilfilimu jinu cun du hafizman. Fopbil apvabnu rina zub ewul likpuh cirduud zekmutu dodreh kab jijum hig dikbajosa zebetdeg mulot mufhekju fon tubiaci. Nopnioj kebeda asuderdu cez owzuntaj vefa ohujizpi zo ozuterwut zac mabki cof bi tulda ajjifeme gi uh meklidiro."
+  },
+  "apiKey": "e286d6f14fbd758f755663b0da4c413b897285dd7fe438d604fa217f103ebbf8",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
